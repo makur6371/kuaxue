@@ -1,0 +1,5 @@
+size=1254x1254
+white_contours=6
+white_points=437
+white_iou=0.99597
+html=single-file-embedded-png-svg-css
