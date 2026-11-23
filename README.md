@@ -1,3 +1,13 @@
+<div align="center">
+
+[![GitHub stars](https://img.shields.io/github/stars/makur6371/kuaxue?style=social)](https://github.com/makur6371/kuaxue)
+[![GitHub forks](https://img.shields.io/github/forks/makur6371/kuaxue?style=social)](https://github.com/makur6371/kuaxue)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)](https://dart.dev)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com)
+
+</div>
+
 # Kuaxue (AI Studio)
 
 Flutter 跨平台学习助手 —— 把课堂、文档、知识卡片、复习计划串成一条完整的学习链路。
